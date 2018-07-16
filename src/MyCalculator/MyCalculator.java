@@ -11,7 +11,7 @@ public class MyCalculator {
 		while(status) {
 			
 			result = 0;
-			out.println("\n\n\n\n\n    Welcome to MyCalculator    ");
+			out.println("\n\n\n\n\n    Welcome to MyCalculator(Second Commit)    ");
 			out.println("================insert calculation====================\n");
 			try {
 				
